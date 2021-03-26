@@ -1,0 +1,61 @@
+body,
+html {
+    margin: auto;
+    text-align: center;
+    /*   background: black */
+    font-family: Montserrat;
+    font-weight: bold;
+}
+
+#image {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    /* background-size: cover; */
+    background-color: #464646;
+    object-fit: contain;
+    width: 100%;
+    display: block;
+    min-width: 500px;
+    max-width: 100%;
+}
+
+#img-caption {
+    color: white;
+}
+
+#quote {
+    color: black;
+    font-size: 30px;
+}
+
+.subsection-header {
+    padding-top: 30px;
+    font-size: 60px;
+    margin: auto;
+    color: black;
+}
+
+#tribute-info {
+    margin-left: 100px;
+    margin-right: 100px;
+    row-height: 20px;
+    font-size: 20px;
+    text-align: left;
+}
+
+li {
+    margin-top: 1.5em;
+}
+
+#tribute-link {
+    font-size: 36px;
+    padding: 60px;
+}
+
+#quote {
+    padding: 50px;
+    margin-left: 200px;
+    width: 50%;
+    text-align: left;
+}
