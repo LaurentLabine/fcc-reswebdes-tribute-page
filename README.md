@@ -1,7 +1,7 @@
-# freeCodeCamp Build a Tribute Page Project
+# freeCodeCamp Responsive Web Design Projects - Build a Tribute Page
 
-Responsive Web Design Projects no.1
+I built this project as part of freeCodeCamp's curriculum in order to learn and practice Responsive Web Design.
 
-Check out the project here: https://github.com/LaurentLabine/fcc_tribute_page/deployments/activity_log?environment=github-pages
+It is accessible here: https://github.com/LaurentLabine/fcc_tribute_page/deployments/activity_log?environment=github-pages
 
-Link to challenge: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page
+And answers the technical requirements stated in the challenge accessible here: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page
