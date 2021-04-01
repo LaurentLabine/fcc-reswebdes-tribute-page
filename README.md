@@ -1,6 +1,6 @@
 # freeCodeCamp Responsive Web Design Projects - Build a Tribute Page
 
-I built this project as part of freeCodeCamp's curriculum in order to learn and practice Responsive Web Design.
+I built this project as part of freeCodeCamp's curriculum to learn and practice Responsive Web Design.
 
 It is accessible here: https://github.com/LaurentLabine/fcc_tribute_page/deployments/activity_log?environment=github-pages
 
