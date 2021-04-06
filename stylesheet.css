@@ -1,61 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
 body,
 html {
     margin: auto;
     text-align: center;
-    /*   background: black */
     font-family: Montserrat;
     font-weight: bold;
+    color: black;
 }
 
 #image {
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    /* background-size: cover; */
-    background-color: #464646;
-    object-fit: contain;
     width: 100%;
     display: block;
-    min-width: 500px;
     max-width: 100%;
 }
 
-#img-caption {
-    color: white;
-}
-
 #quote {
-    color: black;
-    font-size: 30px;
+    font-size: 2rem;
 }
 
 .subsection-header {
-    padding-top: 30px;
-    font-size: 60px;
+    padding-top: 2rem;
+    font-size: 5rem;
     margin: auto;
     color: black;
 }
 
 #tribute-info {
-    margin-left: 100px;
-    margin-right: 100px;
-    row-height: 20px;
-    font-size: 20px;
-    text-align: left;
+    margin-left: 4rem;
+    margin-right: 4rem;
+    font-size: 1.3rem;
+    text-align: justify;
 }
 
-li {
-    margin-top: 1.5em;
+p {
+    padding-top: 1.5rem;
 }
 
 #tribute-link {
-    font-size: 36px;
-    padding: 60px;
+    font-size: 2rem;
+    padding: 4rem;
 }
 
 #quote {
-    padding: 50px;
-    margin-left: 200px;
+    padding: 4rem;
+    margin-left: 12rem;
     width: 50%;
     text-align: left;
 }
