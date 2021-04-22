@@ -2,6 +2,6 @@
 
 I built this project as part of freeCodeCamp's curriculum to learn and practice Responsive Web Design.
 
-It is accessible here: https://laurentlabine.github.io/fcc-reswebdev-tribute-page
+It is accessible here: https://laurentlabine.github.io/fcc-reswebdes-tribute-page
 
 And answers the technical requirements stated in the challenge located here: https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/build-a-tribute-page
