@@ -1,4 +1,4 @@
-# freeCodeCamp Responsive Web Design Projects - Build a Tribute Page
+# freeCodeCamp Responsive Web Design Projects - Project 1 - Build a Tribute Page
 
 I built this project as part of freeCodeCamp's curriculum to learn and practice Responsive Web Design.
 
